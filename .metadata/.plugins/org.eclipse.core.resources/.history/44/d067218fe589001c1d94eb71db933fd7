@@ -1,0 +1,15 @@
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class TestPrimeNumbers {
+
+	@Test
+	public void testPrimeNumber (){ 
+		MyNumber n = new MyNumber();
+		n.setValue(7); 
+		assertEquals(0, s.isPrime());
+		}
+
+
+}

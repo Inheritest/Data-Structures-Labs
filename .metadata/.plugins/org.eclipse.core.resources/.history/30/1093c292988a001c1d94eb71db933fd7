@@ -1,0 +1,21 @@
+
+public class MyNumber 
+{
+	private int value;
+	
+	public void setValue(int value) {
+		this.value = value;
+	}
+	
+	public int isPrime()
+	{
+		if( value % 2 != 0)
+		{
+			return 0;
+		}
+		else
+		{
+			return -1;
+		}
+	}
+}
