@@ -1,0 +1,18 @@
+parentheses tests
+q x = ((1 + 2)*3
+q x = (1 + 2))*3
+q y = (z * j)/(b * 8)^2
+postfix equation solving
+g 7 3 + 9 *
+g 5 2 + 1 9 * *
+g 8 9 * 3 5 + -
+infix to postfix conversion
+j (8 + 4) * 9
+j (6 + 3) * (2 * 8)
+j (9 * 8) – (5 + 3)
+j 3 + (9 / 3)
+Parentheses check, infix to postfix conversion, postfix evaluation
+h (8 + 4) * 9
+h (6 + 3) * (2 * 8)
+h (9 * 8) – (5 + 3)
+h 3 + (9 / 3)
